@@ -1,3 +1,3 @@
-# Arac_Takip
+# AracTakip
 Veritabanı yönetim sistemi dersi proje ödevi
 Postgre Sql 
